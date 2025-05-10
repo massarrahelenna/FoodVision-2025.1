@@ -1,7 +1,7 @@
 /* styles.css */
 .custom-header {
   background: linear-gradient(to right, #0d9488, #10b981);
-  color: white;
+  color: black;
   padding: 1.5rem;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
