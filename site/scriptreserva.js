@@ -7,7 +7,7 @@ function carregarRelatorio() {
   const lista = document.getElementById("lista-despesas");
   if (!lista) return;
 
-  fetch("dadito.json")
+  fetch("dados.json")
     .then(response => {
       if (!response.ok) throw new Error("Erro ao carregar dados");
       return response.json();
