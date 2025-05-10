@@ -1,0 +1,29 @@
+names:
+- Apple
+- Apple-core
+- Apple-peel
+- Bone
+- Bone-fish
+- Bread
+- Egg-shell
+- Fish
+- Meat
+- Mussel
+- Mussel-shell
+- Noodle
+- Orange
+- Orange-peel
+- Potato
+- Rice
+- Tomato
+- Vegetable
+nc: 18
+roboflow:
+  license: CC BY 4.0
+  project: my-first-project-lzc3k
+  url: https://universe.roboflow.com/processamento-de-imagem-aula/my-first-project-lzc3k/dataset/4
+  version: 4
+  workspace: processamento-de-imagem-aula
+test: ../test/images
+train: My-First-Project-4/train/images
+val: My-First-Project-4/valid/images
