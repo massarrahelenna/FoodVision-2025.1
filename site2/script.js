@@ -20,20 +20,20 @@ function carregarRelatorio() {
         const spanNome = document.createElement("span");
         spanNome.textContent = prato.nome;
 
-        const spanPercentual = document.createElement("span");
-        spanPercentual.textContent = `${prato.percentual}%`;
-        spanPercentual.className = "font-bold";
+        const spanRetornos = document.createElement("span");
+        spanRetornos.textContent = `${prato.Retornos}`;
+        spanRetornos.className = "font-bold";
 
-        if (prato.percentual >= 30) {
-          spanPercentual.classList.add("text-red-600");
-        } else if (prato.percentual >= 20) {
-          spanPercentual.classList.add("text-yellow-500");
+        if (prato.Retornos >= 30) {
+          spanRetornos.classList.add("text-red-600");
+        } else if (prato.Retornos >= 20) {
+          spanRetornos.classList.add("text-yellow-500");
         } else {
-          spanPercentual.classList.add("text-green-600");
+          spanRetornos.classList.add("text-green-600");
         }
 
         li.appendChild(spanNome);
-        li.appendChild(spanPercentual);
+        li.appendChild(spanRetornos);
         lista.appendChild(li);
       });
     })
