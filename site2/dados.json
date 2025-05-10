@@ -1,7 +1,9 @@
 [
-  { "nome": "Feijoada", "Retornos": 35 },
-  { "nome": "Lasanha", "Retornos": 28 },
-  { "nome": "Estrogonofe", "Retornos": 21 },
-  { "nome": "jorge", "Retornos": 19 },
-  { "nome": "Frango Grelhado", "Retornos": 12 }
+  { "nome": "Arroz", "Retornos": 8 },
+  { "nome": "Vegetais", "Retornos": 7 },
+  { "nome": "Carne", "Retornos": 5 },
+  { "nome": "Peixe", "Retornos": 2 },
+  { "nome": "tomate", "Retornos": 1 },
+  { "nome": "Macarrão", "Retornos": 2 },
+  { "nome": "Batata", "Retornos": 1 }
 ]
