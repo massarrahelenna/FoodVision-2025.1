@@ -24,6 +24,7 @@ roboflow:
   url: https://universe.roboflow.com/processamento-de-imagem-aula/my-first-project-lzc3k/dataset/4
   version: 4
   workspace: processamento-de-imagem-aula
-test: ../test/images
-train: My-First-Project-4/train/images
-val: My-First-Project-4/valid/images
+train: /home/massarrahelenna/Hackas-2025/Hackas-25.1/IA/My-First-Project-4/train/images
+val: /home/massarrahelenna/Hackas-2025/Hackas-25.1/IA/My-First-Project-4/valid/images
+test: /home/massarrahelenna/Hackas-2025/Hackas-25.1/IA/My-First-Project-4/test/images
+
