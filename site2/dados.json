@@ -1,10 +1,4 @@
 [
-<<<<<<< HEAD
-  { "nome": "Arroz", "Retornos": 34 },
-  { "nome": "Bisteca", "Retornos": 32 },
-  { "nome": "Coxão Mole", "Retornos": 21 },
-  { "nome": "Legumes", "Retornos": 9 }
-=======
   { "nome": "Arroz", "Retornos": 8 },
   { "nome": "Vegetais", "Retornos": 7 },
   { "nome": "Carne", "Retornos": 5 },
@@ -12,5 +6,4 @@
   { "nome": "tomate", "Retornos": 1 },
   { "nome": "Macarrão", "Retornos": 2 },
   { "nome": "Batata", "Retornos": 1 }
->>>>>>> 8c2f4de2e44d74242e16a35119e2e5a71e525de3
 ]
