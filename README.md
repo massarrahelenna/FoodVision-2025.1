@@ -84,9 +84,6 @@ Esses dados permitem análises quantitativas e qualitativas do desperdício alim
 ---
 
 
-📌 Isso garante que imagens e pesos treinados permaneçam salvos na máquina host.
----
-
 ## 📌 Viabilidade Técnica
 
 * Não requer sensores especializados
