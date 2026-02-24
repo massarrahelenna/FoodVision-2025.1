@@ -30,7 +30,7 @@ Desenvolver um sistema de software capaz de **identificar, segmentar e estimar o
 * **Linguagem:** Python 3.10+
 * **Deep Learning:** PyTorch
 * **Visão Computacional:** OpenCV
-* **Modelo:** YOLOv8-seg (Ultralytics)
+* **Modelo:** YOLOv5-seg (Ultralytics)
 * **Anotação de Dados:** Roboflow / CVAT
 * **Backend (opcional):** FastAPI
 * **Ambiente:** Linux (Ubuntu / WSL) com suporte a CUDA
